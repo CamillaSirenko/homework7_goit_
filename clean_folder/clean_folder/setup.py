@@ -1,6 +1,6 @@
 from setuptools import setup, find_namespace_packages
 
-setup(name='clean_folder',
+setup(name='clean_folder_sov',
       version='1.0',
       description='Clean Folder',
       author='Olga Sirenko',
